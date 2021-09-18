@@ -1,1 +1,0 @@
-# modelchristiancollege.org

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Model Christian College</title>
+    <link href="https://reev-create.github.io/modelchristiancollege.org/feed.xml" rel="self" />
+    <link href="https://reev-create.github.io/modelchristiancollege.org" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>reev technologies</name>
+    </author>
+    <id>https://reev-create.github.io/modelchristiancollege.org</id>
+
+</feed>

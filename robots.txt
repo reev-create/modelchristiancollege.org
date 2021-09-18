@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://reev-create.github.io/modelchristiancollege.org/sitemap.xml

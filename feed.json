@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Model Christian College",
+    "description": "",
+    "home_page_url": "https://reev-create.github.io/modelchristiancollege.org",
+    "feed_url": "https://reev-create.github.io/modelchristiancollege.org/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "reev technologies"
+    },
+    "items": [
+    ]
+}
