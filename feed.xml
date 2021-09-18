@@ -3,10 +3,33 @@
     <title>Model Christian College</title>
     <link href="https://reev-create.github.io/modelchristiancollege.org/feed.xml" rel="self" />
     <link href="https://reev-create.github.io/modelchristiancollege.org" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2021-09-18T19:41:11+05:30</updated>
     <author>
         <name>reev technologies</name>
     </author>
     <id>https://reev-create.github.io/modelchristiancollege.org</id>
 
+    <entry>
+        <title>Hey</title>
+        <author>
+            <name>reev technologies</name>
+        </author>
+        <link href="https://reev-create.github.io/modelchristiancollege.org/hey.html"/>
+        <id>https://reev-create.github.io/modelchristiancollege.org/hey.html</id>
+
+        <updated>2021-09-18T19:41:11+05:30</updated>
+            <summary>
+                <![CDATA[
+                     okok 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    okok
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
